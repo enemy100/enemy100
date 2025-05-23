@@ -1,28 +1,57 @@
-### Hi there 👋
+# 👋 Hi, I'm Robson Gomes Pereira
 
-My name is Robson, and I'm a Computer Scientist passionate about all things Unix and DevOps. When I'm not crushing bugs or building dreams, I can be found backpacking 🧗🏿‍♂️around the world or practicing martial arts 🤼‍♂️. I am from Brazil and live in Canada, in the PST timezone.
+🚀 **DevOps & Linux Systems Engineer** | 💻 Automation Specialist | ☁️ Cloud Enthusiast (Azure & AWS)
 
-💻 I'm currently integrating Foreman, OpenStack, and Azure to automate hybrid cloud server provisioning and management.
-☁️ Passionate about Linux, infrastructure automation, monitoring, and cloud-native solutions.
-🔍 Check out my latest work on hybrid observability, automated deployments, and multi-cloud integrations.
-📚 Always learning. Always building.
-  
-<p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=enemy100&show_icons=true&count_private=true"><img
-           height=150
-           src="https://github-readme-stats.vercel.app/api?username=enemy100&show_icons=true&count_private=true"/></a>
-   <a href="https://github.com/enemy100/github-readme-stats"><img height=150
-                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=enemy100&layout=compact"/></a>
-</p>
+---
 
-<p align='center'>
-   <a href="https://www.linkedin.com/in/robsongomespereira/">
-       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-   </a>
-   <a href="https://t.me/joinchat/rob3dfk">
-       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-   </a>
-<p align='center'>
-   📫 How to reach me: <a href='mailto:robsongomesbc@gmail.com'>robsongomesbc@gmail.com</a>
-</p>
+## 🧑‍💻 About Me
+
+I'm a passionate IT professional with over 19 years of experience in infrastructure, Linux systems, automation, and cloud environments.  
+My expertise spans hybrid architectures, configuration management, monitoring, and data center operations.
+
+🔧 Currently working on:
+- Automating hybrid cloud deployments with **Foreman**, **Ansible**, and **Terraform**
+- Integrating **Azure**, **OpenStack**, and **on-prem environments**
+- Building observability stacks with **Zabbix** and **Grafana**
+
+---
+
+## 🛠️ Tech Stack
+
+- **OS:** Linux (RHEL, Ubuntu), Solaris, AIX  
+- **Automation:** Ansible, Puppet, Terraform, Shell, Python  
+- **Cloud:** Azure, AWS, OpenStack  
+- **Monitoring:** Zabbix, Grafana  
+- **Virtualization:** VMware, KVM, Docker, Kubernetes  
+- **Other:** Git, LDAP, Foreman, ELK Stack
+
+---
+
+## 📌 Highlighted Projects
+
+| Project | Description | Stack |
+|--------|-------------|--------|
+| [foreman-azure](https://github.com/enemy100/foreman-azure) | Automate hybrid provisioning using Foreman and Ansible with Azure integration | Ansible, Foreman, Azure |
+| [metrics-azure](https://github.com/enemy100/metrics-azure) | Custom Azure metrics collector with integration to Zabbix/Grafana | Python, Zabbix, Azure API |
+| [zabbix-proxy](https://github.com/enemy100/zabbix-proxy) | Automated deployment of Zabbix Proxies across multiple DCs | Ansible, Puppet |
+
+---
+
+## 🎓 Certifications
+
+- Oracle Solaris 11
+- LPI 101/102, 201/202
+- Cisco CCNA
+
+---
+
+## 📫 Let's Connect
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/robsongomespereira/)
+- 💻 [GitHub](https://github.com/enemy100)
+- 📧 robsongomesbc@gmail.com
+
+---
+
+> "Automation is not just about saving time. It's about enabling scale, reliability, and peace of mind."
 
