@@ -18,8 +18,8 @@ My expertise spans hybrid architectures, configuration management, monitoring, a
 
 ## 🛠️ Tech Stack
 
-- **OS:** Linux (RHEL, Ubuntu), Solaris, AIX  
-- **Automation:** Ansible, Puppet, Terraform, Shell, Python  
+- **OS:** Linux (RHEL, Ubuntu), Solaris 11, AIX 7 
+- **Automation:** Ansible, Puppet, Terraform, Shell, Python, Foreman/Satellite  
 - **Cloud:** Azure, AWS, OpenStack  
 - **Monitoring:** Zabbix, Grafana  
 - **Virtualization:** VMware, KVM, Docker, Kubernetes  
@@ -32,8 +32,8 @@ My expertise spans hybrid architectures, configuration management, monitoring, a
 | Project | Description | Stack |
 |--------|-------------|--------|
 | [foreman-azure](https://github.com/enemy100/foreman-azure) | Automate hybrid provisioning using Foreman and Ansible with Azure integration | Ansible, Foreman, Azure |
-| [metrics-azure](https://github.com/enemy100/metrics-azure) | Custom Azure metrics collector with integration to Zabbix/Grafana | Python, Zabbix, Azure API |
-| [zabbix-proxy](https://github.com/enemy100/zabbix-proxy) | Automated deployment of Zabbix Proxies across multiple DCs | Ansible, Puppet |
+| [metrics-azure](https://github.com/enemy100/Azure-metrics) | Custom Azure metrics collector with integration to Zabbix/Grafana | Python, Zabbix, Azure API |
+| [zabbix-iaac](https://github.com/enemy100/zabbix-iaac) | Automated deployment of Zabbix Proxies across multiple DCs | Ansible, Puppet |
 
 ---
 
