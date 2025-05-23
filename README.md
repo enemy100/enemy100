@@ -2,10 +2,10 @@
 
 My name is Robson, and I'm a Computer Scientist passionate about all things Unix and DevOps. When I'm not crushing bugs or building dreams, I can be found backpacking 🧗🏿‍♂️around the world or practicing martial arts 🤼‍♂️. I am from Brazil and live in Canada, in the PST timezone.
 
-- 🔭 I'm currently working on fully automating a project involving PXE UEFI deployment for Oracle Linux servers, 100% offline using Ansible and Puppet.
-- 🌴 I recently built a Foreman with SSO authentication using Ansible, check it out [here](https://github.com/enemy100/foreman-sso-setup)
-- 🙋🏻‍♂️ I'm looking to collaborate on projects involving automation tools or Linux!
-  - Send me your ideas 📫
+💻 I'm currently integrating Foreman, OpenStack, and Azure to automate hybrid cloud server provisioning and management.
+☁️ Passionate about Linux, infrastructure automation, monitoring, and cloud-native solutions.
+🔍 Check out my latest work on hybrid observability, automated deployments, and multi-cloud integrations.
+📚 Always learning. Always building.
   
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=enemy100&show_icons=true&count_private=true"><img
